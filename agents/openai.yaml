@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Skill Repo Starter"
+  short_description: "Reusable Codex skill for creating public-ready Codex skill repositories with the right structure, clarification rules, documentation, and QA guardrails"
+  default_prompt: "Use $codex-skill-repo-starter to help me with creating public-ready Codex skill repositories with the right structure, clarification rules, documentation, and QA guardrails."
