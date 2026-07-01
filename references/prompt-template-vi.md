@@ -14,7 +14,7 @@ Deliverables:
 - note any unresolved limitations
 ```
 
-## Bien the prompt nen dung
+## Biến thể prompt nên dùng
 
 ```text
 Use $codex-skill-repo-starter to turn my current local folder into a public-ready Codex skill repo.
